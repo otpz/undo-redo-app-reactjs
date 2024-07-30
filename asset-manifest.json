@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/undo-redo-app-reactjs/static/css/main.a742044c.css",
+    "main.js": "/undo-redo-app-reactjs/static/js/main.86e95dbf.js",
+    "static/js/453.0d276dd5.chunk.js": "/undo-redo-app-reactjs/static/js/453.0d276dd5.chunk.js",
+    "index.html": "/undo-redo-app-reactjs/index.html",
+    "main.a742044c.css.map": "/undo-redo-app-reactjs/static/css/main.a742044c.css.map",
+    "main.86e95dbf.js.map": "/undo-redo-app-reactjs/static/js/main.86e95dbf.js.map",
+    "453.0d276dd5.chunk.js.map": "/undo-redo-app-reactjs/static/js/453.0d276dd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a742044c.css",
+    "static/js/main.86e95dbf.js"
+  ]
+}
