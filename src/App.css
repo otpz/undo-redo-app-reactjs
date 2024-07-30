@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-family: "Inter", sans-serif;
+}
+
+body,
+html{
+  height: 100vh; 
+}
+
+body{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(52, 59, 68);
+  padding: 20px;
+}
+
+.button{
+  width: 110px;
+  height: 30px;
+  outline: none;
+  border: 1px solid rgb(167, 167, 167);
+  border-radius: 4px;
+  background-color: rgb(42, 96, 104);
+  user-select: none;
+  color: white;
+  padding-top: 2px;
+  transition: 0.15s all ease-in-out;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.redo{
+  left: 130px;
+}
+
+.button:hover{
+  background-color:rgb(72, 136, 146);
+  transition: 0.15s all ease-in-out;
+}
+
+
+
+.footer{
+  position: absolute;
+  margin-left: auto;
+  bottom: 20px; 
+}
+
+.info{
+  font-size: 18px;
+  font-weight: 700;
+  color: rgb(201, 201, 201);
+  user-select: none;
+  z-index: 100;
+}
+
+.info.top{
+  color: #488892;
+  text-shadow: 1px 0px 0px white;
+  font-size: 28px;
+}
+
+.info .link{
+  font-size: 20px;
+  font-weight: 800;
+  text-decoration: none;
+  color: rgb(227, 227, 227);
+  transition: 0.25s all ease-in-out;
+}
+
+.info .link:hover{
+  transition: 0.25s all ease-in-out;
+  color: rgb(255, 255, 255);
+}
