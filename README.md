@@ -1,3 +1,11 @@
+# Undo & Redo Clicked Points
+
+In this project, clicking on the screen will add a ball at the clicked position. You can then undo or redo the addition of these balls.
+
+Live site URL -> https://otpz.github.io/undo-redo-app-reactjs/
+
+![1](https://github.com/user-attachments/assets/f6c580e7-b5ac-4403-89cf-ec33baf29851)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
